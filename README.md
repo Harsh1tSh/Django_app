@@ -3,9 +3,9 @@
 
 ### Automax App
 <div>
-<img src="https://github.com/preneure/automax_django_web_app/blob/master/previews/Screen%20Shot%202022-08-13%20at%207.36.26%20PM.png" alt="feed example" width="400">
-<img src="https://github.com/preneure/automax_django_web_app/blob/master/previews/Screen%20Shot%202022-08-13%20at%207.36.37%20PM.png" alt="feed example" width="400">
-<img src="https://github.com/preneure/automax_django_web_app/blob/master/previews/Screen%20Shot%202022-08-13%20at%207.36.52%20PM.png" alt="feed example" width="400">
-<img src="https://github.com/preneure/automax_django_web_app/blob/master/previews/Screen%20Shot%202022-08-13%20at%207.37.24%20PM.png" alt="feed example" width="400">
+<img src="https://github.com/Harsh1tSh/Django_app/blob/master/preview/Screenshot%202024-12-22%20142237.png" alt="feed example" width="400">
+<img src="https://github.com/Harsh1tSh/Django_app/blob/master/preview/Screenshot%202024-12-22%20142722.png" alt="feed example" width="400">
+<img src="https://github.com/Harsh1tSh/Django_app/blob/master/preview/Screenshot%202024-12-22%20142903.png" alt="feed example" width="400">
+<img src="https://github.com/Harsh1tSh/Django_app/blob/master/preview/Screenshot%202024-12-22%20143000.png" alt="feed example" width="400">
 </div>
 </p>
