@@ -1,7 +1,7 @@
 
 
 
-### Automax App
+# Automax App
 
 
 ## These are Images for the demo App
